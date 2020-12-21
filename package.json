@@ -1,5 +1,15 @@
 {
   "name": "time_to_answer",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "4.5.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "3.5.1",
+    "jquery.easing": "^1.4.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leonardobotrel/time_to_answer.git",
+  "author": "leonardobotrel <leonardobotrel@gmail.com>",
+  "license": "MIT"
 }
